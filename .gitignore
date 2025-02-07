@@ -1,0 +1,9 @@
+# Ignorar archivo CSV de configuración
+gitignore/access.csv
+
+# Ignorar todos los archivos de log
+*.log
+
+# Ignorar archivos de configuración de entorno
+.env
+
