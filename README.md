@@ -1,4 +1,4 @@
-echo "# 🌧️ RainyDay 🌞
+# 🌧️ RainyDay 🌞
 
 **RainyDay** es una aplicación que proporciona pronósticos meteorológicos y te mantiene informado sobre el clima, enviando mensajes SMS para alertarte si va a llover o si hay sol. Utiliza la API de OpenWeatherMap para obtener los pronósticos y Twilio para enviar los SMS.
 
